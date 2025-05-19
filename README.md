@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhijithreddych" target="blank"><img src="https://img.shields.io/twitter/follow/abhijithreddych?logo=twitter&style=for-the-badge" alt="abhijithreddych" /></a> </p>
 
-- 🔭 I’m currently working on **Project related to Js**
+- 🔭 I’m currently working on **Project related to Agentic AI**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **NodeJs**
 
