@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Project related to Agentic AI**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang & Python**
 
 - 👯 I’m looking to collaborate on **NodeJs**
 
